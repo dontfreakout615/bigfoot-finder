@@ -1,0 +1,60 @@
+ENC_COUNTY,ENC_STATE,STATE_ABRV,NUM_ENC,NUM_EST
+Alameda,California ,CA,1,1
+Alpine,California ,CA,9,9
+Amador,California ,CA,1,1
+Butte,California ,CA,7,7
+Calaveras,California ,CA,8,8
+Contra Costa,California ,CA,1,1
+Del Norte,California ,CA,24,24
+El Dorado,California ,CA,26,26
+Fresno,California ,CA,17,17
+Humboldt,California ,CA,50,50
+Imperial,California ,CA,1,1
+Inyo,California ,CA,6,6
+Kern,California ,CA,12,12
+Lake,California ,CA,37,37
+Lassen,California ,CA,4,4
+Los Angeles,California ,CA,9,9
+Madera,California ,CA,1,1
+Mariposa,California ,CA,3,3
+Mendocino,California ,CA,14,14
+Modoc,California ,CA,3,3
+Mono,California ,CA,16,16
+Monterey,California ,CA,4,4
+Napa,California ,CA,1,1
+Nevada,California ,CA,11,11
+Placer,California ,CA,6,6
+Plumas,California ,CA,7,7
+Riverside,California ,CA,6,6
+San Bernardino,California ,CA,11,11
+San Diego,California ,CA,9,9
+San Luis Obispo,California ,CA,1,1
+Santa Barbara,California ,CA,2,2
+Santa Cruz,California ,CA,3,3
+Shasta,California ,CA,27,27
+Sierra,California ,CA,3,3
+Siskiyou,California ,CA,31,31
+Sonoma,California ,CA,5,5
+Stanislaus,California ,CA,2,2
+Sutter,California ,CA,1,1
+Tehama,California ,CA,5,5
+Trinity,California ,CA,20,20
+Tulare,California ,CA,19,19
+Tuolumne,California ,CA,36,36
+Ventura,California ,CA,3,3
+Yuba,California ,CA,1,1
+Colusa,California ,CA,0,0.001
+Glenn,California ,CA,0,0.001
+Kings,California ,CA,0,0.001
+Marin,California ,CA,0,0.001
+Merced,California ,CA,0,0.001
+Mono,California ,CA,0,0.001
+Orange,California ,CA,0,0.001
+Sacramento,California ,CA,0,0.001
+San Benito,California ,CA,0,0.001
+San Francisco,California ,CA,0,0.001
+San Joaquin,California ,CA,0,0.001
+San Mateo,California ,CA,0,0.001
+Santa Clara,California ,CA,0,0.001
+Solano,California ,CA,0,0.001
+Yolo,California ,CA,0,0.001
