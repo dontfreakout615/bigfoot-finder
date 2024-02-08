@@ -1,1 +1,1 @@
-web: voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser --enable_nbextensions=True C964/Capstone.ipynb
+web: voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser C964/Capstone.ipynb
